@@ -1,0 +1,115 @@
+2017/08/22 16:05:58 [emerg] 19596#18752: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/08/22 17:53:50 [emerg] 13320#17948: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/08/22 17:55:39 [error] 21088#19436: *1 CreateFile() "D:\nginx-1.12.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8256", referrer: "http://localhost:8256/"
+2017/08/25 09:31:55 [warn] 12504#4132: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:31:55 [warn] 12592#12584: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:31:55 [warn] 12628#12640: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:31:55 [warn] 12696#12712: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:31:55 [warn] 11536#11916: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:33:43 [error] 12592#8432: *6 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", upstream: "http://192.168.0.119:8040/index.html", host: "192.168.0.119:8090"
+2017/08/25 09:34:50 [warn] 12980#10492: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:34:50 [notice] 12980#10492: signal process started
+2017/08/25 09:35:10 [warn] 12552#9784: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:35:10 [notice] 12552#9784: signal process started
+2017/08/25 09:35:10 [error] 12552#9784: CreateFile() "D:\nginx-1.12.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/08/25 09:35:19 [warn] 5464#9164: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:35:19 [notice] 5464#9164: signal process started
+2017/08/25 09:35:19 [error] 5464#9164: CreateFile() "D:\nginx-1.12.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/08/25 09:37:59 [warn] 13236#10672: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:37:59 [notice] 13236#10672: signal process started
+2017/08/25 09:37:59 [error] 13236#10672: OpenEvent("Global\ngx_reload_3495") failed (2: The system cannot find the file specified)
+2017/08/25 09:38:18 [warn] 12524#12492: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:38:18 [notice] 12524#12492: signal process started
+2017/08/25 09:38:18 [error] 12524#12492: invalid PID number "" in "D:\nginx-1.12.1/logs/nginx.pid"
+2017/08/25 09:38:22 [warn] 12664#10420: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:38:22 [notice] 12664#10420: signal process started
+2017/08/25 09:38:22 [error] 12664#10420: invalid PID number "" in "D:\nginx-1.12.1/logs/nginx.pid"
+2017/08/25 09:40:24 [warn] 13268#12628: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:40:24 [warn] 11924#12460: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:40:24 [warn] 12960#10040: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:40:24 [warn] 11992#12656: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:40:24 [warn] 12712#2284: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:42:00 [warn] 12184#10116: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:42:00 [notice] 12184#10116: signal process started
+2017/08/25 09:42:00 [warn] 9384#12920: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:42:00 [warn] 12312#7100: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:42:00 [warn] 11824#10640: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:42:00 [warn] 12320#12228: "user" is not supported, ignored in D:\nginx-1.12.1/conf/nginx.conf:1
+2017/08/25 09:42:46 [notice] 9764#2284: signal process started
+2017/08/25 09:42:54 [notice] 8556#12540: signal process started
+2017/08/25 09:43:10 [notice] 5676#6520: signal process started
+2017/08/25 09:43:18 [notice] 12396#12608: signal process started
+2017/08/25 09:43:18 [error] 12396#12608: CreateFile() "D:\nginx-1.12.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/08/25 09:51:13 [notice] 12776#13168: signal process started
+2017/08/25 09:52:18 [notice] 13536#14168: signal process started
+2017/08/25 09:59:49 [notice] 10560#13604: signal process started
+2017/08/25 10:00:30 [notice] 13536#14224: signal process started
+2017/08/25 10:11:21 [notice] 15052#14360: signal process started
+2017/08/25 10:21:06 [emerg] 6980#16220: invalid host in upstream "192.168.1.171:9988/Login.aspx" in D:\nginx-1.12.1/conf/nginx.conf:9
+2017/08/25 10:21:17 [notice] 15304#15116: signal process started
+2017/08/25 10:24:44 [notice] 15764#15276: signal process started
+2017/08/25 10:24:47 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:24:48 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:24:49 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:24:49 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:24:49 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:24:49 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:24:56 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:25:02 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:25:03 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:25:04 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:25:05 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:25:05 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:25:06 [error] 16148#13740: *93 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:25:31 [notice] 13576#11820: signal process started
+2017/08/25 10:25:35 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:25:52 [notice] 14832#14480: signal process started
+2017/08/25 10:25:52 [error] 14832#14480: CreateFile() "D:\nginx-1.12.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/08/25 10:26:02 [notice] 15600#16072: signal process started
+2017/08/25 10:26:07 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:26:08 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:26:15 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:26:21 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:26:24 [notice] 10132#1480: signal process started
+2017/08/25 10:26:26 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:26:33 [notice] 9384#14444: signal process started
+2017/08/25 10:26:35 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:26:36 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:27:15 [error] 4316#15520: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 10:28:06 [alert] 14576#11480: worker process 16028 exited with code C0000142
+2017/08/25 10:28:06 [alert] 14576#11480: could not respawn worker
+2017/08/25 10:28:09 [alert] 13924#12960: worker process 14948 exited with code C0000142
+2017/08/25 10:28:09 [alert] 13924#12960: could not respawn worker
+2017/08/25 13:41:54 [error] 8072#752: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 13:41:55 [error] 8072#752: *1 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 13:43:11 [notice] 9380#8856: signal process started
+2017/08/25 13:43:36 [notice] 7728#9760: signal process started
+2017/08/25 13:43:53 [notice] 8840#4492: signal process started
+2017/08/25 13:43:55 [error] 6164#992: *18 directory index of "D:\nginx-1.12.1/html/" is forbidden, client: 192.168.0.119, server: , request: "GET / HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 13:44:15 [notice] 6132#8980: signal process started
+2017/08/25 13:44:44 [error] 4924#2632: *19 CreateFile() "D:\nginx-1.12.1/html/Login.aspx" failed (2: The system cannot find the file specified), client: 192.168.0.119, server: , request: "GET /Login.aspx HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 13:45:10 [error] 4924#2632: *19 CreateFile() "D:\nginx-1.12.1/html/Login.aspx" failed (2: The system cannot find the file specified), client: 192.168.0.119, server: , request: "GET /Login.aspx HTTP/1.1", host: "192.168.0.119:8090"
+2017/08/25 13:48:23 [emerg] 10220#2088: directive "location" has no opening "{" in D:\nginx-1.12.1/conf/nginx.conf:22
+2017/08/25 13:48:53 [emerg] 5252#6788: directive "location" has no opening "{" in D:\nginx-1.12.1/conf/nginx.conf:22
+2017/08/25 13:49:10 [emerg] 9576#3212: directive "location" has no opening "{" in D:\nginx-1.12.1/conf/nginx.conf:22
+2017/08/25 13:49:45 [emerg] 8648#5876: invalid number of arguments in "location" directive in D:\nginx-1.12.1/conf/nginx.conf:22
+2017/08/25 13:51:56 [emerg] 8976#8920: invalid number of arguments in "location" directive in D:\nginx-1.12.1/conf/nginx.conf:22
+2017/08/25 13:52:04 [emerg] 8676#8248: invalid number of arguments in "location" directive in D:\nginx-1.12.1/conf/nginx.conf:22
+2017/08/25 13:52:24 [emerg] 5040#9748: invalid number of arguments in "location" directive in D:\nginx-1.12.1/conf/nginx.conf:22
+2017/08/25 13:54:59 [notice] 9668#9392: signal process started
+2017/08/25 14:21:39 [notice] 9248#10280: signal process started
+2017/08/25 14:21:39 [error] 9248#10280: OpenEvent("Global\ngx_reload_8332") failed (2: The system cannot find the file specified)
+2017/08/25 14:36:06 [emerg] 7864#3212: directive "location" has no opening "{" in D:\nginx-1.12.1/conf/nginx.conf:49
+2017/08/25 14:39:04 [emerg] 10576#10256: directive "location" has no opening "{" in D:\nginx-1.12.1/conf/nginx.conf:49
+2017/08/25 14:40:02 [notice] 2536#11236: signal process started
+2017/08/25 14:40:02 [error] 2536#11236: OpenEvent("Global\ngx_reload_8332") failed (2: The system cannot find the file specified)
+2017/08/25 14:40:30 [error] 9060#10612: *1 CreateFile() "D:\nginx-1.12.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8082", referrer: "http://localhost:8082/"
+2017/08/25 14:40:39 [error] 9060#10612: *1 CreateFile() "D:\nginx-1.12.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8082", referrer: "http://localhost:8082/"
+2017/08/25 14:57:31 [error] 9060#10612: *5 upstream sent unsupported FastCGI protocol version: 72 while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /a.aspx HTTP/1.1", upstream: "fastcgi://127.0.0.1:8081", host: "localhost:8082"
+2017/08/25 15:41:11 [emerg] 11080#10308: duplicate location "/" in D:\nginx-1.12.1/conf/nginx.conf:48
+2017/08/25 15:47:52 [emerg] 868#11256: duplicate location "/" in D:\nginx-1.12.1/conf/nginx.conf:55
+2017/08/25 15:48:10 [emerg] 9884#10712: duplicate location "/" in D:\nginx-1.12.1/conf/nginx.conf:55
+2017/08/25 15:49:38 [emerg] 10976#9384: duplicate location "/" in D:\nginx-1.12.1/conf/nginx.conf:55
+2017/08/25 15:50:52 [emerg] 9272#9392: invalid number of arguments in "root" directive in D:\nginx-1.12.1/conf/nginx.conf:49
+2017/08/25 15:57:42 [error] 4204#10640: *1 CreateFile() "D:\nginx-1.12.1/html/Login.aspx" failed (2: The system cannot find the file specified), client: 192.168.0.119, server: , request: "GET /Login.aspx HTTP/1.1", host: "192.168.0.119:8082"
+2017/08/25 16:01:42 [error] 10136#1116: *3 CreateFile() "D:\nginx-1.12.1/html/LoginHandle.ashx" failed (2: The system cannot find the file specified), client: 192.168.0.119, server: , request: "POST /LoginHandle.ashx HTTP/1.1", host: "192.168.0.119:8082", referrer: "http://192.168.0.119:8082/Login.aspx"
